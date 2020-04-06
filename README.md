@@ -1,2 +1,2 @@
-# likerthon
-LikeCoin hackathon
+# Initial page
+
