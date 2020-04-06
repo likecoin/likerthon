@@ -1,0 +1,2 @@
+# likerthon
+LikeCoin hackathon
