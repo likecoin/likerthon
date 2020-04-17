@@ -11,7 +11,7 @@ description: LikeCoin hackathon
   * LikeCoin token
   * LikeCoin button
   * LikeCoin chain
-  * LIkeCoin API
+  * LikeCoin API
   * LikeCoin SDK 
 
 ## Schedule
