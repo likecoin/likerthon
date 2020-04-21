@@ -5,7 +5,7 @@ description: LikeCoin hackathon
 # Likerthon
 
 * online hackathon
-* take place on either g0v Slack or Gitcoin
+* take place on [g0v Slack](http://join.g0v.tw/)
 * genesis Likerthon tentatively set at May 1-31
 * any websites/apps which use or enhance LikeCoin protocol are eligible:
   * LikeCoin token
@@ -13,8 +13,15 @@ description: LikeCoin hackathon
   * LikeCoin chain
   * LikeCoin API
   * LikeCoin SDK 
+  
+## Who can join?
+
+**Non-technical** or **technical** hackers who are interested in LikeCoin are welcome to join! We welcome new ideas, exisitnig projects or individuals who want to bring LikeCoin to their own domain. 
+
 
 ## Schedule
+
+Date: May 1-31. 1 month to complete your project.
 
 * May 1: kick off
 * May 6: Sharing - Idea is cheap. DApps ideas on LikeCoin chain
@@ -40,7 +47,11 @@ The project receiving the most LikeCoin will be the winner. i.e. Civic Liker has
 * 1st runner-up: 300,000 LikeCoin
 * 2nd runner-up: 200,000 LikeCoin
 
+## How to join?
 
+* Join [g0v Slack](http://join.g0v.tw/)and select #likecoin channel. Remeber to say hi and introduce yourself. 
+* Fill in the [registration form](https://forms.gle/vSPo2uGV1zkYMyAE9)
+* Mark down Likerthon weekly schedule to calendar 
 
 
 
