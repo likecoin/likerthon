@@ -48,9 +48,15 @@
 
 ## 如何參與
 
-* 加入 [g0v 零時政府 Slack](http://join.g0v.tw/)並選擇 #likecoin 頻道。記得跟大家打個招呼並介紹自己喔。
+* 加入[g0v 零時政府 Slack](http://join.g0v.tw/)並選擇 #likecoin 頻道。記得跟大家打個招呼並介紹自己喔。
 * 填妥[登記表格](https://forms.gle/vSPo2uGV1zkYMyAE9)
 * 在日曆上記下讚客松的每週時程
+
+## 如何遞交項目
+
+* 在[Matters](https://matters.news/)創建提案簡介
+* 為你的文章加上標籤#讚客松並關聯此作品：[讚客松 Likerthon 2020 - LikeCoin 狂想曲後續] (https://www.matters.news/@likecoin/%E8%AE%9A%E5%AE%A2%E6%9D%BE-likerthon-2020-like-coin-%E7%8B%82%E6%83%B3%E6%9B%B2%E5%BE%8C%E7%BA%8C-bafyreiemfrqhcn6cy3gny6ov6rv2lxiccr7cuh2keeyrx5qtja62p545tm)
+* 在 5/27 投票程序開始前向社群介紹你的提案，社群將透過 Matters 來投票給讚 
 
 
 
@@ -107,9 +113,13 @@ The project receiving the most LikeCoin will be the winner. i.e. Civic Liker has
 
 * Join [g0v Slack](http://join.g0v.tw/)and select #likecoin channel. Remember to say hi and introduce yourself. 
 * Fill in the [registration form](https://forms.gle/vSPo2uGV1zkYMyAE9)
-* Mark down Likerthon weekly schedule to calendar 
+* Mark down Likerthon weekly schedule to calendar
 
+## How to submit?
 
+* Set up a project description page on [Matters](https://matters.news/)
+* Hashtag #Likerthon and tag this article [讚客松 Likerthon 2020 - LikeCoin 狂想曲後續] (https://www.matters.news/@likecoin/%E8%AE%9A%E5%AE%A2%E6%9D%BE-likerthon-2020-like-coin-%E7%8B%82%E6%83%B3%E6%9B%B2%E5%BE%8C%E7%BA%8C-bafyreiemfrqhcn6cy3gny6ov6rv2lxiccr7cuh2keeyrx5qtja62p545tm)
+* Get your project page ready before the voting period. The community will begins to vote on Matters by giving Like starting on 27/5. . 
 
 
 
