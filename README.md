@@ -55,7 +55,7 @@
 ## 如何遞交項目
 
 * 在[Matters](https://matters.news/)創建提案簡介
-* 為你的文章加上標籤#likerthon並關聯此作品：[讚客松 Likerthon 2020 - LikeCoin 狂想曲後續] (https://www.matters.news/@likecoin/%E8%AE%9A%E5%AE%A2%E6%9D%BE-likerthon-2020-like-coin-%E7%8B%82%E6%83%B3%E6%9B%B2%E5%BE%8C%E7%BA%8C-bafyreiemfrqhcn6cy3gny6ov6rv2lxiccr7cuh2keeyrx5qtja62p545tm)
+* 為你的文章加上標籤 #likerthon 並關聯此作品：[讚客松 Likerthon 2020 - LikeCoin 狂想曲後續] (https://www.matters.news/@likecoin/%E8%AE%9A%E5%AE%A2%E6%9D%BE-likerthon-2020-like-coin-%E7%8B%82%E6%83%B3%E6%9B%B2%E5%BE%8C%E7%BA%8C-bafyreiemfrqhcn6cy3gny6ov6rv2lxiccr7cuh2keeyrx5qtja62p545tm)
 * 在 5/27 投票程序開始前向社群介紹你的提案，社群將透過 Matters 來投票給讚 
 
 
