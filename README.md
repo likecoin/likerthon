@@ -21,6 +21,7 @@
 ## 時程
 
 日期： 5/1-31 ，一個月內完成你的項目。
+## 更新：活動將延長兩個星期至 6/14 结束。 
 
 * 5/1：  正式開始
 * 5/6：  分享 - 自由發想，任何在 LikeCoin chain 上實現的 DApps 概念
@@ -28,7 +29,15 @@
 * 5/20： LikeCoin chain 分享
 * 5/27： 簡報每個讚客松項目
 * 5/27： 開始以 LikeCoin button 的投票程序
-* 5/31： 結束以 LikeCoin button 的投票程序，公佈結果。
+* 5/31： 結束以 LikeCoin button 的投票程序，公佈結果
+
+## 簡報和投票程序順延兩個星期，以下為最新時程：
+
+* 6/10：簡報每個讚客松項目
+* 6/10：開始以 LikeCoin button 的投票程序
+* 6/14：結束以 LikeCoin button 的投票程序，公佈結果。
+
+
 
 ## 投票
 
@@ -84,6 +93,7 @@ description: LikeCoin hackathon
 ## Schedule
 
 Date: May 1-31. 1 month to complete your project.
+## Update： The event will postpone its deadline for 2 weeks to June 14. 
 
 * May 1: kick off
 * May 6: Sharing - Idea is cheap. DApps ideas on LikeCoin chain
@@ -92,6 +102,12 @@ Date: May 1-31. 1 month to complete your project.
 * May 27: Presentations - various Likerthon projects
 * May 27: Voting by LikeCoin button starts
 * May 31: Voting by LikeCon button ends. Announcement.
+
+## Presentation and voting period will move to the following dates：
+
+* June 10：Presentations - various Likerthon projects
+* June 10：Voting by LikeCoin button starts
+* June 14：Voting by LikeCon button ends. Announcement.
 
 ## Voting
 
