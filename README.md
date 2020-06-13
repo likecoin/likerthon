@@ -65,7 +65,10 @@
 
 * 在[Matters](https://matters.news/)創建提案簡介
 * 為你的文章加上標籤 #likerthon 並關聯此作品：[讚客松 Likerthon 2020 - LikeCoin 狂想曲後續] (https://www.matters.news/@likecoin/%E8%AE%9A%E5%AE%A2%E6%9D%BE-likerthon-2020-like-coin-%E7%8B%82%E6%83%B3%E6%9B%B2%E5%BE%8C%E7%BA%8C-bafyreiemfrqhcn6cy3gny6ov6rv2lxiccr7cuh2keeyrx5qtja62p545tm)
-* 在 5/27 投票程序開始前向社群介紹你的提案，社群將透過 Matters 來投票給讚 
+* 建議你把最新的項目版本和拉票文標籤 #likerthon 和關聯此作品：讚客松進入最後階段，[社群投票選出得獎項目](https://matters.news/@likecoin/%E8%AE%9A%E5%AE%A2%E6%9D%BE%E9%80%B2%E5%85%A5%E6%9C%80%E5%BE%8C%E9%9A%8E%E6%AE%B5-%E7%A4%BE%E7%BE%A4%E6%8A%95%E7%A5%A8%E9%81%B8%E5%87%BA%E5%BE%97%E7%8D%8E%E9%A0%85%E7%9B%AE-bafyreihtfc4uvob7cwgjclbbonwkuar25tdvvqq46rchdjfnzrxnrrbi7q)
+* 在 5/27 投票程序開始前向社群介紹你的提案
+* 投票將在 6/10-14 舉行，社群將透過 Matters 來投票給讚 
+
 
 
 
@@ -135,7 +138,9 @@ The project receiving the most LikeCoin will be the winner. i.e. Civic Liker has
 
 * Set up a project description page on [Matters](https://matters.news/)
 * Hashtag #likerthon and tag this article [讚客松 Likerthon 2020 - LikeCoin 狂想曲後續] (https://www.matters.news/@likecoin/%E8%AE%9A%E5%AE%A2%E6%9D%BE-likerthon-2020-like-coin-%E7%8B%82%E6%83%B3%E6%9B%B2%E5%BE%8C%E7%BA%8C-bafyreiemfrqhcn6cy3gny6ov6rv2lxiccr7cuh2keeyrx5qtja62p545tm)
-* Get your project page ready before the voting period. The community will begins to vote on Matters by giving Like starting on 27/5. . 
+* Get your project page ready before the voting period. The community will begins to vote on Matters by giving Like starting on 27/5. 
+* Submit your final presentation to #likerthon and tag this article：讚客松進入最後階段，[社群投票選出得獎項目](https://matters.news/@likecoin/%E8%AE%9A%E5%AE%A2%E6%9D%BE%E9%80%B2%E5%85%A5%E6%9C%80%E5%BE%8C%E9%9A%8E%E6%AE%B5-%E7%A4%BE%E7%BE%A4%E6%8A%95%E7%A5%A8%E9%81%B8%E5%87%BA%E5%BE%97%E7%8D%8E%E9%A0%85%E7%9B%AE-bafyreihtfc4uvob7cwgjclbbonwkuar25tdvvqq46rchdjfnzrxnrrbi7q)
+* Voting period: 6/10-14 
 
 
 
